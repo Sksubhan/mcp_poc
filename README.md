@@ -1,9 +1,9 @@
 MCP_server/
-├── .env                     # MySQL credentials and DB info
-├── mcp_sql_poc.py           # Main MCP server script (Todo Manager)
-├── pyproject.toml           # uv project metadata & dependencies
-├── mcp.json                 # MCP configuration for Claude
-└── README.md                # You're reading it!
+.env                     # MySQL credentials and DB info
+mcp_sql_poc.py           # Main MCP server script (Todo Manager)
+pyproject.toml           # uv project metadata & dependencies
+mcp.json                 # MCP configuration for Claude
+README.md                # You're reading it!
 
 ### Requirements
 
