@@ -1,0 +1,14 @@
+[project]
+name = "mcp_server"
+version = "0.1.0"
+description = "My MCP + MySQL POC"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "fastmcp>=2.13.0.2",
+    "mysql-connector-python>=9.5.0",
+    "python-dotenv>=1.2.1",
+]
