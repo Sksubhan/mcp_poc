@@ -42,3 +42,6 @@ Claude → Calls `update_todo(3, "Buy groceries", "2025-11-12 18:00:00", "2025-1
 
 User: Delete completed tasks. \
 Claude → Calls `delete_todo(id)`
+
+
+Images are also been attached in this repository. Please have a look for better understanding.
